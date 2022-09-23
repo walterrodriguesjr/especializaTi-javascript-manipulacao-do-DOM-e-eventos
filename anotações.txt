@@ -1,0 +1,56 @@
+introdução ao DOM 
+1A-o que é o DOM 
+    -explicação sobre o curso 
+
+2A-preparando o projeto e document javascript 
+    -preparado o ambiente 
+
+DOM na prática 
+    -acessando todo conteudo do HTML através do document 
+         console.log(document); 
+    -possibilita alterar qualquer parte do HTML 
+         console.log(document.title = 'teste');
+
+1B-document.write javascript 
+    -escrevendo com javascript 
+        document.write('Sou o uso do document.write');
+
+2B-getElementById javascript
+    -pega o elemento (tag) pelo Id 
+
+3B-getElementByName javascript
+    -pega o elemento (tag) pelo name
+
+4B-getElementByTagName javascript 
+    -pega o elemento (tag) pelo tipo de tag 
+
+5B-getElementByClassName javascript 
+    -ok 
+
+6B-querySelector javascript 
+    -serve para qualquer tipo, tag, name, id etc 
+
+7B-querySelectorAll javascript
+    -ok 
+
+8B-parentNode javascript 
+    -serve para capturar a tag pai da tag em questão 
+
+9B-children, firstElementChild, lastElementChild javascript 
+    -children serve para manipular dados de dentro de uma tag informada 
+    
+10B-hasAttribute, getAttribute, setAttribute javascript 
+    -ok 
+
+11B-insertAdjacentHTML javascript   
+    -ok 
+
+12B-srollTo e scroll (topo e footer) com javascript 
+    -funções com button para scrollar a página para o local indicado 
+
+formulários 
+
+1C-criar formulários HTML5 
+    -configurado um form HTML5 c/ bootstrap 4 com todos os inputs possíveis 
+
+
